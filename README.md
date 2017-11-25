@@ -4,4 +4,4 @@ Important: the **contents** of the `font`, `lib`, `dat` folders have to be in th
 
 ![Screenshot](screenshot.png "Screenshot")
 
-For more information see [my website](https://fenyesb.github.io/projects/raycast.html].
+For more information visit [my website](https://fenyesb.github.io/projects/raycast.html).
